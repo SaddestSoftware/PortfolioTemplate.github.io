@@ -1,0 +1,1 @@
+alert("This code was all made by me saddestsoftware awhile looking a picture of a website/its based of enjoy this template");
